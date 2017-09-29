@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">فقط قهوة</string>
+    <string name="chocolate">شوكولاتة</string>
+    <string name="name">الإسم</string>
+    <string name="order">أطلب</string>
+    <string name="order_summary_chocolate">إضافة شوكولاتة؟ <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_email_subject">طلب من فقط قهوة للسيد <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_name">الاسم: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_price">المبلغ المطلوب: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_quantity">عدد أكواب القهوة: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_whipped_cream">إضافة كريمة مخفوقة؟ <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="quantity">عدد أكواب القهوة</string>
+    <string name="thank_you">شكرا لك</string>
+    <string name="toppings">إضافات</string>
+    <string name="whipped_cream">كريمة مخفوقة</string>
+</resources>
